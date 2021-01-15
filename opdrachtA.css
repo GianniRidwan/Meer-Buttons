@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: grey;
+}
+
+#container{
+	width: 600px;
+	height: 150px;
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 10px;
+	position: relative;
+}
+
+button{
+	width: 150px;
+	height: 50px;
+	position: relative;
+	margin-top: 50px;
+	margin-left: 36px;
+}
